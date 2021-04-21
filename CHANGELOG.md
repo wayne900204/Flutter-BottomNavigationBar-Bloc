@@ -9,3 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2021-02-12
 ### Added
 - Flutter BottomNavigationBar with Bloc
+
+## [0.0.2] - 2021-04-21
+### Added
+- updated plugins and packages version that support flutter sdk version 2.0.5
